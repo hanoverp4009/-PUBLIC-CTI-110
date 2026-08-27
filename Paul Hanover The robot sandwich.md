@@ -1,7 +1,7 @@
 # How to make a sandwich
 
 ## Assumptions Section
-The robot is at a ready state with hands empty. They two slices of bread are on the counter along with all the contents to make the sandwich. Mayanaise jar, mustard, cheese, Romaine lettuce and tomatoe. The meat we will be using is roast beef and fried bacon. You will have the utensils needed to also slice or spread the mayonaise and mustard on the sandwich.
+The robot is at a ready state with hands empty. The two slices of bread are on the counter along with all the contents to make the sandwich. Mayanaise jar, mustard, cheese, Romaine lettuce and tomatoe. The meat we will be using is roast beef and fried bacon. You will have the utensils needed to also slice or spread the mayonaise and mustard on the sandwich.
 
 ## Step by step instructions for putting putting the sandwich together
 1. unscrew the mayonnaise jar and lay the lid on the counter face up
